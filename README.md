@@ -50,7 +50,7 @@ You can install the required libraries using pip:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-git clone https://github.com/yourusername/Odev2-Branching.git
+git clone https://github.com/deliprofesor/Odev2-Branching.git
 cd EcoHealth.py
 
 python EcoHealth.py
